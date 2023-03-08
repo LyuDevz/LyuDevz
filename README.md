@@ -50,7 +50,9 @@ Here are some ideas to get you started:
   <p> 🖼️ SNS & Portfolio 🖼️ </p>
 </div>
 <div align="center">
+  <a href="https://www.instagram.com/sjl0921_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div>  
