@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <br />
 <div align="center">
   <p>👻 About Me 👻</p>
-  <br />
   <p>Business Administration & Information @ Kookmin Univ.</p>
 </div>
 <div align="center">
