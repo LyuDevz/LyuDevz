@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 </div>
 <br />
 <div align="center">
+  <p>👻 About Me 👻</p>
+  <br />
+  <p>Business Administration & Information @ Kookmin Univ.</p>
+</div>
+<div align="center">
   <h3> 📚 Tech Stack 📚 </h3>
   <p> ✏️ What I Have Learned ✏️ </p>
 </div>
