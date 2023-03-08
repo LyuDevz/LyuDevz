@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 <br />
 <div align="center">
-  <p> 🌱 Looking Forward to Learn 🌱 </p>
+  <p> 🌱 Looking Forward to Learning 🌱 </p>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
