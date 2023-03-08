@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 </div>  
+<br />
 <div align="center">
   <p> 🖼️ SNS & Portfolio 🖼️ </p>
 </div>
