@@ -45,5 +45,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 </div>  
+<div align="center">
+  <p> 🖼️ SNS & Portfolio 🖼️ </p>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</div>  
 
 
