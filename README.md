@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
 </div>  
 
 
