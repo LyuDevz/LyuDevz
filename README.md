@@ -5,7 +5,7 @@
 <div align="center">
   <p>👻 About Me 👻</p>
   <p>Business Administration & Information @ Kookmin Univ.</p>
-  <p>Front-End Developer in HAPL(2023.04.10 ~ ) </p>
+  <p>Front-End Developer in HAPL (23.04.10 ~ ) </p>
 </div>
 <br />
 <div align="center">
